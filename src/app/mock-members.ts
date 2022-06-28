@@ -10,5 +10,6 @@ export const MEMBERS: Member[] = [
   { id: 17, name: "Rena Midorikawa" },
   { id: 18, name: "Yudai Ohashi" },
   { id: 19, name: "Noriyuki Iwano" },
-  { id: 20, name: "Kojiro Sasaki" }
+  { id: 20, name: "Kojiro Sasaki" },
+  { id: 21, name: "Tanjiro Kamado" }
 ];
