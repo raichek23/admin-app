@@ -1,0 +1,8 @@
+<h2>Proper List</h2>
+<ul class="members">
+  <li *ngFor="let member of members">
+    <a routerLink="/detail/{{ member.id }}">
+      <span class="badge">{{ member.id }}</span> {{ member.name }}
+    </a>
+  </li>
+</ul>
